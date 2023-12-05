@@ -1,0 +1,65 @@
+﻿{
+  "Buttons": [
+    {
+      "Name": "DiscordInvite",
+      "Url": "https://discord.gg/BgnvZUG",
+      "ParentControl": "MenuWindow",
+      "Bounds": {
+        "X": 410,
+        "Y": 10,
+        "Width": 20,
+        "Height": 20,
+        "Left": 410,
+        "Top": 10,
+        "Bottom": 30,
+        "Right": 430
+      },
+      "Alignments": [],
+      "Image": "join-our-discord.png",
+      "HoverImage": null,
+      "ClickedImage": null,
+      "HoverSound": null
+    },
+    {
+      "Name": "YotubeVideo",
+      "Url": "https://www.youtube.com/watch?v=jwgGZH_6zVU&ab_channel=Esi",
+      "ParentControl": "MenuWindow",
+      "Bounds": {
+        "X": 380,
+        "Y": 8,
+        "Width": 23,
+        "Height": 23,
+        "Left": 380,
+        "Top": 8,
+        "Bottom": 31,
+        "Right": 403
+      },
+      "Alignments": [],
+      "Image": "join-our-youtubechannel.png",
+      "HoverImage": null,
+      "ClickedImage": null,
+      "HoverSound": null
+    },
+    {
+      "Name": "Itchio",
+      "Url": "https://esi69.itch.io/greenstone-town",
+      "ParentControl": "MenuWindow",
+      "Bounds": {
+        "X": 350,
+        "Y": 10,
+        "Width": 20,
+        "Height": 20,
+        "Left": 350,
+        "Top": 10,
+        "Bottom": 30,
+        "Right": 370
+      },
+      "Alignments": [],
+      "Image": "itchio.png",
+      "HoverImage": null,
+      "ClickedImage": null,
+      "HoverSound": null
+    }
+  ],
+  "IsEnabled": true
+}
